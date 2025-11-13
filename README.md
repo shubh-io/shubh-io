@@ -22,7 +22,7 @@ I’m really interested in:
   <a href="https://github.com/nothig007/Waitlist-For-Saas">
     <img 
       align="center" 
-      src="https://github-readme-stats.vercel.app/api/pin/?username=nothig007&repo=Waitlist-For-Saas&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e&cache_seconds=36011" 
+      src="https://github-readme-stats.vercel.app/api/pin/?username=nothig007&repo=Waitlist-For-Saas&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&hide_border=tgrue&border_color=244d9e&bg_color=151619&cache_seconds=36011" 
       alt="Waitlist-For-Saas" 
     />
   </a>
@@ -30,7 +30,7 @@ I’m really interested in:
   <a href="https://github.com/nothig007/EyeWell">
     <img 
       align="center" 
-      src="https://github-readme-stats.vercel.app/api/pin/?username=nothig007&repo=EyeWell&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e&cache_seconds=36011" 
+      src="https://github-readme-stats.vercel.app/api/pin/?username=nothig007&repo=EyeWell&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&hide_border=tgrue&border_color=244d9e&bg_color=151619&cache_seconds=36011" 
       alt="EyeWell"
     />
   </a>
