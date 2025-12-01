@@ -5,7 +5,8 @@
 </p>
 
 <p align="center">
-  🌐 <a href="https://[your-url].vercel.app"><b>Check out my Portfolio</b></a>
+  🌐 <a href="https://shubhransh.vercel.app"><b>Check out my Portfolio</b></a> | 
+  📝 <a href="https://shubhransh.vercel.app/blog"><b>Read my Blog</b></a>
 </p>
 
 ---
@@ -13,6 +14,9 @@
 ## About Me!  
 
 Hi! I'm a **Full stack developer** who loves building clean, scalable, and production-ready applications.  
+
+I document my learning journey through **technical blogs** where I share projects, experiments, and insights about development and DevOps.
+
 I'm really interested in:
 
 - 🛠️ **DevOps** — CI/CD, Docker, deployments, automation  
@@ -41,8 +45,7 @@ I'm really interested in:
 </p>
 
 
-## ✉️ Reach Me!
-- Portfolio: <a href="https://[your-url].vercel.app">https://[your-url].vercel.app</a>
+## ✉️ Reach Me
 - Email: <a href="mailto:shubhistrue@gmail.com">shubhistrue@gmail.com</a>
 
 
@@ -50,8 +53,11 @@ I'm really interested in:
 
 ## 🌐 Connect With Me  
 <p align="left">
-  <a href="https://[your-url].vercel.app">
+  <a href="https://shubhransh.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://shubhransh.vercel.app/blog">
+    <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white"/>
   </a>
   <a href="https://github.com/shubh-io">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
