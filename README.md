@@ -4,12 +4,16 @@
   <b>Full-Stack Developer | DevOps Enthusiast | System Design & Cloud Infra Learner</b>
 </p>
 
+<p align="center">
+  🌐 <a href="https://[your-url].vercel.app"><b>Check out my Portfolio</b></a>
+</p>
 
+---
 
 ## About Me!  
 
 Hi! I'm a **Full stack developer** who loves building clean, scalable, and production-ready applications.  
-I’m really interested in:
+I'm really interested in:
 
 - 🛠️ **DevOps** — CI/CD, Docker, deployments, automation  
 - 🧩 **System Design** — performance, architecture, scalability  
@@ -19,18 +23,18 @@ I’m really interested in:
 ## ⭐ Highlight Projects
 <p align="left">
 
-  <a href="https://github.com/nothig007/Waitlist-For-Saas">
+  <a href="https://github.com/shubh-io/Waitlist-For-Saas">
     <img 
       align="center" 
-      src="https://github-readme-stats.vercel.app/api/pin/?username=nothig007&repo=Waitlist-For-Saas&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&hide_border=tgrue&border_color=244d9e&bg_color=151619&cache_seconds=36011" 
+      src="https://github-readme-stats.vercel.app/api/pin/?username=shubh-io&repo=Waitlist-For-Saas&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&hide_border=tgrue&border_color=244d9e&bg_color=151619&cache_seconds=36011" 
       alt="Waitlist-For-Saas" 
     />
   </a>
 
-  <a href="https://github.com/nothig007/EyeWell">
+  <a href="https://github.com/shubh-io/EyeWell">
     <img 
       align="center" 
-      src="https://github-readme-stats.vercel.app/api/pin/?username=nothig007&repo=EyeWell&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&hide_border=tgrue&border_color=244d9e&bg_color=151619&cache_seconds=36011" 
+      src="https://github-readme-stats.vercel.app/api/pin/?username=shubh-io&repo=EyeWell&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&hide_border=tgrue&border_color=244d9e&bg_color=151619&cache_seconds=36011" 
       alt="EyeWell"
     />
   </a>
@@ -38,6 +42,7 @@ I’m really interested in:
 
 
 ## ✉️ Reach Me!
+- Portfolio: <a href="https://[your-url].vercel.app">https://[your-url].vercel.app</a>
 - Email: <a href="mailto:shubhistrue@gmail.com">shubhistrue@gmail.com</a>
 
 
@@ -45,7 +50,10 @@ I’m really interested in:
 
 ## 🌐 Connect With Me  
 <p align="left">
-  <a href="https://github.com/nothig007">
+  <a href="https://[your-url].vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://github.com/shubh-io">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://hub.docker.com/repositories/shubhxdd">
@@ -76,7 +84,7 @@ I’m really interested in:
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nothig007&style=flat&color=0e75b6" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=shubh-io&style=flat&color=0e75b6" alt="Profile views" />
 </p>
 <p align="center">
   Always learning. Always building.  
