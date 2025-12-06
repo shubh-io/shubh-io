@@ -27,21 +27,22 @@ I'm really interested in:
 ## ⭐ Highlight Projects
 <p align="left">
 
+  <a href="https://github.com/shubh-io/Dockwatch">
+    <img 
+      align="left" 
+      src="https://github-readme-stats-six-gilt-60.vercel.app/api/pin/?username=shubh-io&repo=Dockwatch&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&hide_border=tgrue&border_color=244d9e&bg_color=151619&cache_seconds=36015" 
+      alt="DockWatch" 
+    />
+  </a>
   <a href="https://github.com/shubh-io/Waitlist-For-Saas">
     <img 
       align="center" 
-      src="https://github-readme-stats.vercel.app/api/pin/?username=shubh-io&repo=Waitlist-For-Saas&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&hide_border=tgrue&border_color=244d9e&bg_color=151619&cache_seconds=36011" 
+      src="https://github-readme-stats-six-gilt-60.vercel.app/api/pin/?username=shubh-io&repo=Waitlist-For-Saas&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&hide_border=tgrue&border_color=244d9e&bg_color=151619&cache_seconds=36011" 
       alt="Waitlist-For-Saas" 
     />
   </a>
 
-  <a href="https://github.com/shubh-io/EyeWell">
-    <img 
-      align="center" 
-      src="https://github-readme-stats.vercel.app/api/pin/?username=shubh-io&repo=EyeWell&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&hide_border=tgrue&border_color=244d9e&bg_color=151619&cache_seconds=36011" 
-      alt="EyeWell"
-    />
-  </a>
+ 
 </p>
 
 
