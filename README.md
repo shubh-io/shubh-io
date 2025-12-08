@@ -27,11 +27,11 @@ I'm really interested in:
 ## ⭐ Highlight Projects
 <p align="left">
 
-  <a href="https://github.com/shubh-io/Dockwatch">
+  <a href="https://github.com/shubh-io/DockMate">
     <img 
       align="left" 
-      src="https://github-readme-stats-six-gilt-60.vercel.app/api/pin/?username=shubh-io&repo=Dockwatch&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&hide_border=tgrue&border_color=244d9e&bg_color=151619&cache_seconds=36015" 
-      alt="DockWatch" 
+      src="https://github-readme-stats-six-gilt-60.vercel.app/api/pin/?username=shubh-io&repo=DockMate&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&hide_border=tgrue&border_color=244d9e&bg_color=151619&cache_seconds=36015" 
+      alt="DockMate" 
     />
   </a>
   <a href="https://github.com/shubh-io/Waitlist-For-Saas">
