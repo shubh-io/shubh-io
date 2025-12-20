@@ -19,10 +19,13 @@ I document my learning journey through **technical blogs** where I share project
 
 I'm really interested in:
 
-- 🛠️ **DevOps** — CI/CD, Docker, deployments, automation  
-- 🧩 **System Design** — performance, architecture, scalability  
-- ☁️ **Cloud Infrastructure** — distributed systems, databases, deployments  
+- 🛠️ **DevOps** - CI/CD, Docker, deployments, automation  
+- 🧩 **System Design** - performance, architecture, scalability  
+- ☁️ **Cloud Infrastructure** - distributed systems, databases, deployments  
 
+<p align="left">
+  <img src="https://github-readme-stats-six-gilt-60.vercel.app/api?username=shubh-io&show_icons=true&theme=dark&title_color=64b5f6&border_color=244d9e&icon_color=64b5f6&bg_color=151619" />
+</p>
 
 ## ⭐ Highlight Projects
 <p align="left">
@@ -40,6 +43,7 @@ I'm really interested in:
       src="https://github-readme-stats-six-gilt-60.vercel.app/api/pin/?username=shubh-io&repo=Waitlist-For-Saas&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&hide_border=tgrue&border_color=244d9e&bg_color=151619&cache_seconds=36011" 
       alt="Waitlist-For-Saas" 
     />
+    
   </a>
 
  
