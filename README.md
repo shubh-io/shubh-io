@@ -64,11 +64,14 @@ I'm really interested in:
   <a href="https://shubhransh.vercel.app/blog">
     <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white"/>
   </a>
+  <a href="https://www.linkedin.com/in/shubhransh-nath/">
+    <img src="https://img.shields.io/badge/linkedin-%230db7ed.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
   <a href="https://github.com/shubh-io">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://hub.docker.com/repositories/shubhxdd">
-    <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+    <img src="https://img.shields.io/badge/docker-%239db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
   </a>
 </p>
 
